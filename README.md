@@ -9,15 +9,33 @@ Steve mines the red **اشتراك** block until it breaks, and goes from **نو
 
 [Watch the long version](videos/steve_subscribe_long.mp4) · [Watch the Shorts version](videos/steve_subscribe_shorts.mp4)
 
+![Blender 5.2](https://img.shields.io/badge/Blender-5.2-E87D0D?logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-video-007808?logo=ffmpeg&logoColor=white)
+![1080p 60fps](https://img.shields.io/badge/1080p-60fps-blueviolet)
+![License MIT](https://img.shields.io/badge/license-MIT-green)
+
 </div>
 
 ## The story in three shots
 
+<div align="center">
+
 ![Noob, cracking, legend](videos/steps.png)
+
+*Noob, cracking, legend.*
+
+</div>
 
 ## Also in vertical
 
+<div align="center">
+
 <img src="videos/preview_shorts.gif" alt="The vertical Shorts version" width="240">
+
+*The same scene as a 9:16 Short.*
+
+</div>
 
 ## Highlights
 
