@@ -1,0 +1,49 @@
+# work notes, tests and references stay on disk only
+Old/
+out/
+refs/
+refs_choice.txt
+GOAL.md
+HANDOFF_PROMPT.md
+NOTES.md
+PROGRESS.md
+# leftover assets the animation does not use (kept on disk)
+steve/rig/tex189/
+steve/tex/generic_*.png
+steve/tex/destroy_stage_*.png
+steve/tex/*_block.png
+steve/tex/stone.png
+steve/tex/green_concrete.png
+steve/tex/face_*.png
+steve/tex/tag_legend.png
+steve/sound/break_toolbreak.wav
+steve/sound/hit_stone3.wav
+steve/sound/hit_stone4.wav
+steve/sound/reveal_*.wav
+!steve/sound/reveal_orb.wav
+# caches
+.cache/
+node_modules
+__pycache__/
+*.blend1
+# big media: ProRes, WebM
+*.mov
+*.webm
+# frames and temp
+frames/
+temp/
+*.tmp
+# secrets
+.env
+*.key
+# Mojang / Microsoft assets: never stored here, fetched from your own install (steve/fetch_assets.py, steve/get_sounds.py)
+steve/sound/*.wav
+steve/tex/steve.png
+steve/tex/netherite_pickaxe.png
+steve/tex/enchanted_glint_item.png
+steve/tex/experience_orb.png
+steve/tex/crack_*.png
+steve/tex/red_concrete.png
+steve/tex/lime_concrete.png
+steve/rig/segoeuib.ttf
+steve/rig/thumb.py
