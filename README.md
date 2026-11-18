@@ -81,4 +81,6 @@ Install the Python parts with `pip install pillow arabic-reshaper python-bidi`.
 
 ## License and credits
 
-The code is MIT licensed (see [LICENSE](LICENSE)). Minecraft textures, sounds and names belong to Mojang Studios and Microsoft and are not stored in this repository. This is a fan project and is not affiliated with Mojang or Microsoft.
+The code is MIT licensed (see [LICENSE](LICENSE)). Minecraft textures, sounds and names belong to Mojang Studios and Microsoft and are not stored in this repository.
+
+**NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
